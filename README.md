@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there Varun this side
+## I'm a undergrad in NSUT
+## and I am interested in sports 🙂
+
 
 <!--
 **Varunsaxena16/Varunsaxena16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
