@@ -1,6 +1,6 @@
-## Hi there Varun this side
-## I'm a undergrad in NSUT
-## and I am interested in sports 🙂
+Hi there Varun this side
+I'm a undergrad in NSUT
+and I am interested in sports 🙂
 
 
 <!--
